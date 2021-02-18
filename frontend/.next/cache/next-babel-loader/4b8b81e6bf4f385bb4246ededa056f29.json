@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './datasets';","map":{"version":3,"sources":["/Users/lucas/Desktop/advanced/frontend/pages/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,YAAxB","sourcesContent":["export { default } from './datasets'\n"]},"metadata":{},"sourceType":"module"}
